@@ -1,0 +1,10 @@
+.form input[type=search]{padding: 6px;
+    margin-top: 8px;
+    font-size: 23px;
+    border: none;
+  width: 400px;
+}
+i.fa-search {
+color: rgb(10, 1, 1); /color of the icon/
+font-size: 1.2em; /* size of the icon /
+margin-left: 8px; / add some space between the icon and the input */
